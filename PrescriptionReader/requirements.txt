@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+Pillow
+opencv-python-headless
+rapidfuzz
+pandas
+python-multipart
+langchain
+langchain-community
+numpy
+bitsandbytes
+sentencepiece
+accelerate
+langchain_huggingface
